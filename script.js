@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual seu nível de conhecimento sobre a literatura? Descubra seu ator(a)",
+        enunciado: "Qual seu nível de conhecimento sobre a literatura do nosso país? Descubra seu autor(a)",
         alternativas: [
             "baixo",
             "médio",
